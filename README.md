@@ -7,4 +7,4 @@ In this profile you can see all my personal projects and those i created during 
 ## 📫Contact me:
 - Eizikr@icloud.com
 - +972-524044662
-- [My linked in profile]([https://helpo-t10.herokuapp.com](https://www.linkedin.com/in/itzik-rahamim-developer))
+- [My linked in profile](https://www.linkedin.com/in/itzik-rahamim-developer)
